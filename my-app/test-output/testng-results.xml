@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48523" started-at="2018-08-31T19:43:26Z" finished-at="2018-08-31T19:44:15Z">
+    <groups>
+    </groups>
+    <test name="Smoke Tests" duration-ms="48523" started-at="2018-08-31T19:43:26Z" finished-at="2018-08-31T19:44:15Z">
+      <class name="com.mycompany.app.CopyTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mycompany.app.CopyTest@51cdd8a]" name="setup" is-config="true" duration-ms="26162" started-at="2018-08-31T19:43:26Z" finished-at="2018-08-31T19:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="MeaningfulName()[pri:0, instance:com.mycompany.app.CopyTest@51cdd8a]" name="MeaningfulName" duration-ms="27" started-at="2018-08-31T19:43:52Z" finished-at="2018-08-31T19:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MeaningfulName -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.CopyTest@51cdd8a]" name="navigateHome" is-config="true" duration-ms="1" started-at="2018-08-31T19:44:11Z" finished-at="2018-08-31T19:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="MeaningfulName2()[pri:0, instance:com.mycompany.app.CopyTest@51cdd8a]" name="MeaningfulName2" duration-ms="2" started-at="2018-08-31T19:44:11Z" finished-at="2018-08-31T19:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MeaningfulName2 -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.CopyTest@51cdd8a]" name="navigateHome" is-config="true" duration-ms="1" started-at="2018-08-31T19:44:12Z" finished-at="2018-08-31T19:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.mycompany.app.CopyTest@51cdd8a]" name="closeBrowser" is-config="true" duration-ms="2408" started-at="2018-08-31T19:44:12Z" finished-at="2018-08-31T19:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.mycompany.app.CopyTest -->
+    </test> <!-- Smoke Tests -->
+  </suite> <!-- Suite -->
+</testng-results>
